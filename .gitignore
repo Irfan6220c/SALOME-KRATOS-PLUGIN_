@@ -1,0 +1,15 @@
+# Recovery files
+*~
+
+# Compiled python
+*.pyc
+
+*.cache
+
+# Times files
+*.time
+frontEndAddition/__pycache__/elmer_window_handler.cpython-36.pyc
+*.time
+*.hdf
+example.json
+.vscode*
